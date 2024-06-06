@@ -8,3 +8,5 @@
 ## git push origin -u master (first time) -   next time - git push origin master
 
 ## git clone <url>  - to the clone github repo 
+
+## git pull - to get latest code form remote repo 
