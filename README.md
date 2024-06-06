@@ -10,3 +10,11 @@
 ## git clone <url>  - to the clone github repo 
 
 ## git pull - to get latest code form remote repo 
+
+## For Setting the user details in github account first time 
+
+## in local to setup this command
+
+## git config --global user.name "UUUUU"
+
+## git config --global user.mail "UUUUU@gmail.com"
