@@ -15,6 +15,6 @@
 
 ## in local to setup this command
 
-## git config --global user.name "UUUUU"
+## git config --global user.name "kotireddy"
 
-## git config --global user.mail "UUUUU@gmail.com"
+## git config --global user.mail "kotireddy@gmail.com"
